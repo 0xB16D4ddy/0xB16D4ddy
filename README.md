@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! I'm K1ngsm4n_5p 👋 </h1>
-<h2 align="center">Hear What I'm Working On 👋 </h2>
 <h3 align="center">🏫 Student at Upper Canada College 🏫</h3>
 <h4 align="center">💻Full Stack Development | 🔐Cybersecurity | 🚩CTF </h4>
 Here are some ideas to get you started:
