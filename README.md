@@ -1,5 +1,5 @@
 ### Here is What I'm Working On !👋
-<iframe src="https://embed.lottiefiles.com/animation/77631"></iframe>
+<img src="https://embed.lottiefiles.com/animation/77631"></img>
 
 Here are some ideas to get you started:
 
