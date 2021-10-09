@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm K1ngsm4n_5p 👋 </h1>
-<h3 align="center">🏫 Student at Upper Canada College 🏫</h3>
+<h3 align="center"><img src="https://www.uit.edu.vn/sites/vi/files/images/Logos/Logo_UIT_In.jpg" alt="school" width="10">  Student at University of Information Technology </img> </h3>
 <h4 align="center">💻Full Stack Development | 🔐Cybersecurity | 🚩CTF </h4>
 Here are some ideas to get you started:
 
