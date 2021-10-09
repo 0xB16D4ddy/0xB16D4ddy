@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://media.discordapp.net/attachments/871393677304553473/896455328420479026/77631-bee-lounging.gif"> Hey there! I'm K1ngsm4n_5p 👋 </img> </h1>
+<h1 align="center"> <img src="https://media.discordapp.net/attachments/871393677304553473/896455328420479026/77631-bee-lounging.gif" width="100"> Hey there! I'm K1ngsm4n_5p 👋 </img> </h1>
 <h3 align="center">🏫Student at University of Information Technology🏫</h3>
 <h4 align="center">💻Full Stack Development | 💻DevSecOps | 🔐Cybersecurity | 🚩CTF</h4>
 Here are some ideas to get you started:
