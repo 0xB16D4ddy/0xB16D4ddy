@@ -1,6 +1,7 @@
-<h1 align="center">Hey there! I'm K1ngsm4n_5p 👋 </h1>
+<h1 align="center">![77631-bee-lounging](https://user-images.githubusercontent.com/54707979/136669142-1e90709b-e665-473f-b244-7a4b580c4c94.gif)
+Hey there! I'm K1ngsm4n_5p 👋 </h1>
 <h3 align="center">🏫Student at University of Information Technology🏫</h3>
-<h4 align="center">💻Full Stack Development | 🔐Cybersecurity | 🚩CTF</h4>
+<h4 align="center">💻Full Stack Development | 💻DevSecOps | 🔐Cybersecurity | 🚩CTF</h4>
 Here are some ideas to get you started:
 
 - 🎓 I’m Studying at UIT
