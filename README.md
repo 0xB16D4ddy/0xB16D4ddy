@@ -23,11 +23,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="50"></img>
 </div>
 
-<span>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phuocem201&show_icons=true&theme=gruvbox)
-</span>
-
-<span>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem201&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</span>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=phuocem201&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem201&layout=compact)" />
+</a>
