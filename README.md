@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 </span>
 
 <span>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem201&layout=compact)](https://github.com/phuocem201/github-readme-stats.git)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem201&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </span>
 
