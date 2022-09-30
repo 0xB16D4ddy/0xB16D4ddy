@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [github](https://github.com/phuocem201) 
 - 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ... I'm a human
+- ⚡ Fun fact: ... I'm a robot
 
 ### 💻Languages and Tools
 <div>
