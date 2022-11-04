@@ -30,5 +30,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phuocem201&hide=contribs,prs&theme=gruvbox&repo=phuocem201" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://streak-stats.demolab.com?user=phuocem201&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats&repo=phuocem201" />
+  <img align="center" src="https://streak-stats.demolab.com?user=phuocem201&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&repo=phuocem201" />
 </a>
