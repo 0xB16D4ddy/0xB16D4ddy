@@ -5,14 +5,15 @@ Here are some ideas to get you started:
 
 - 🎓 I’m Studying at UIT
 - 🌱 I’m Learning and persuing CTF competitions
-- 🏆 I’m Loves Hacking and Cybersecurity 
-- ✍️ I’m Researching and Learning Web-Hacking 
+- 🏆 I’m Loves Hacking and Cybersecurity
+- ✍️ I’m Researching and Learning Web-Hacking
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [github](https://github.com/phuocem201) 
+- 📫 How to reach me: ... [github](https://github.com/phuocem201)
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I'm a robot
 
 ### 💻Languages and Tools
+
 <div>
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JS" width="50"></img>
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="python" width="50"></img>
@@ -23,12 +24,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="50"></img>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuocem201&hide=contribs,prs&theme=gruvbox) <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuocem201&theme=gruvbox&show_icons=true&count_private=true) <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=phuocem201&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br/>
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phuocem201&hide=contribs,prs&theme=gruvbox&repo=phuocem201" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://streak-stats.demolab.com?user=phuocem201&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D&repo=phuocem201" />
-</a> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem201&layout=compact)](https://github.com/phuocem201/github-readme-stats) <br/>
