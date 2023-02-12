@@ -3,6 +3,9 @@
 <h4 align="center">🔐Cybersecurity | 💻Full Stack Development | 💻DevSecOps | 🚩CTF</h4>
 Here are some ideas to get you started:
 
+<div>
+<div><img src="https://user-images.githubusercontent.com/33517160/217376118-ca46862b-4369-4ccd-8e06-c86a7b58698e.gif" alt="gif" width="50"></img></div>
+<div>
 - 🎓 I’m Studying at UIT
 - 🌱 I’m Learning and persuing CTF competitions
 - 🏆 I’m Loves Hacking and Cybersecurity
@@ -11,7 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [github](https://github.com/phuocem201)
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I'm a robot
-
+  </div>
+</div>
 ### 💻Languages and Tools
 
 <div>
