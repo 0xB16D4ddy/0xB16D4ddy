@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I'm a robot
 ```
 
-<div></div>
+<br /> 
+----
 ### 💻Languages and Tools
 
 <div>
