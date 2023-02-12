@@ -24,10 +24,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="50"></img>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuocem201&theme=gruvbox&show_icons=true&count_private=true) <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=phuocem201&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem201&layout=compact)](https://github.com/phuocem201/github-readme-stats) <br/>
-
 <!-- <details> -->
 <!--  <summary><h2>📜Github Stats</h2></summary> -->
 <h2>📜Github Stats</h2>
@@ -35,5 +31,6 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api?username=phuocem201&show_icons=true&theme=tokyonight&" width="500px" align="center">
       <br><br>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phuocem201&theme=tokyonight" width="500px" align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem201&layout=compact)](https://github.com/phuocem201/github-readme-stats) <br/>
   </p>
 <!-- </details> -->
