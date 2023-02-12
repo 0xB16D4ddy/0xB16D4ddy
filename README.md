@@ -2,7 +2,7 @@
 <h3 align="center">🏫Student at University of Information Technology🏫</h3>
 <h4 align="center">🔐Cybersecurity | 💻Full Stack Development | 💻DevSecOps | 🚩CTF</h4>
 <div>
-<div><img src="https://user-images.githubusercontent.com/33517160/217376118-ca46862b-4369-4ccd-8e06-c86a7b58698e.gif" alt="gif" width="50"></img></div>
+<div><img src="https://user-images.githubusercontent.com/33517160/217376118-ca46862b-4369-4ccd-8e06-c86a7b58698e.gif" alt="gif" style="width:100%"></img></div>
 <div>
 Here are some ideas to get you started:
 - 🎓 I’m Studying at UIT
