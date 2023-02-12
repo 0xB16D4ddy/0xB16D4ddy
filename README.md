@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="50"></img>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem201&layout=compact)](https://github.com/phuocem201/github-readme-stats) <br/>
 <!-- <details> -->
 <!--  <summary><h2>📜Github Stats</h2></summary> -->
 <h2>📜Github Stats</h2>
@@ -33,4 +34,4 @@ Here are some ideas to get you started:
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phuocem201&theme=tokyonight" width="500px" align="center">
   </p>
 <!-- </details> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocem201&layout=compact)](https://github.com/phuocem201/github-readme-stats) <br/>
+
