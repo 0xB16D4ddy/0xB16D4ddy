@@ -1,11 +1,10 @@
 <h1 align="center"> <img src="https://media.discordapp.net/attachments/871393677304553473/896455328420479026/77631-bee-lounging.gif" width="50"> Hey there! I'm M3rL1n0x 👋 </img> </h1>
 <h3 align="center">🏫Student at University of Information Technology🏫</h3>
 <h4 align="center">🔐Cybersecurity | 💻Full Stack Development | 💻DevSecOps | 🚩CTF</h4>
-Here are some ideas to get you started:
-
 <div>
 <div><img src="https://user-images.githubusercontent.com/33517160/217376118-ca46862b-4369-4ccd-8e06-c86a7b58698e.gif" alt="gif" width="50"></img></div>
 <div>
+Here are some ideas to get you started:
 - 🎓 I’m Studying at UIT
 - 🌱 I’m Learning and persuing CTF competitions
 - 🏆 I’m Loves Hacking and Cybersecurity
