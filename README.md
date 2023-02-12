@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [github](https://github.com/phuocem201)
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I'm a robot
-
-
 <br /> 
 
 ### 💻Languages and Tools
