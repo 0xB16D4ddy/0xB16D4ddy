@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- <details> -->
 <!--  <summary><h2>📜Github Stats</h2></summary> -->
 <h2>📜Github Stats</h2>
-  <p align="left">
+  <p align="left" style="display: flex">
       <img src="https://github-readme-stats.vercel.app/api?username=0xP21&show_icons=true&theme=tokyonight&" width="500px" align="center">
       <br><br>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xP21&theme=tokyonight" width="500px" align="center">
