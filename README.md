@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="50"></img>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xP21&layout=compact)](https://github.com/0xP21/github-readme-stats) <br/>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xP21&layout=compact)](https://github.com/0xP21/github-readme-stats) <br/> -->
 <!-- <details> -->
 <!--  <summary><h2>📜Github Stats</h2></summary> -->
 <h2>📜Github Stats</h2>
