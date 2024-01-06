@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 - 🎓 I’m Studying at UIT
-- 🌱 I’m Learning and persuing CTF competitions
+- 🌱 I’m Learning and pursuing CTF competitions
 - 🏆 I’m Loves Hacking and Cybersecurity
 - ✍️ I’m Researching and Learning Web-Hacking
 - 💬 Ask me about ... Anything
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JS" width="50"></img>
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="python" width="50"></img>
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" alt="VScode" width="50"></img>
-  <img src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" alt="React" width="50"></img>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50"></img>
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" alt="NodeJS" width="50"></img>
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width="100"></img>
   <img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="50"></img>
