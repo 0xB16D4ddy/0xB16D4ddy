@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/KJfuLyYU5iolPwbX5p/giphy.gif" width="50" > Hey there! I'm BiGDady 👋 </img> </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/KJfuLyYU5iolPwbX5p/giphy.gif" width="38" > Hey there! I'm BiGDady 👋 </img> </h1>
 <h3 align="center">🏫Student at University of Information Technology🏫</h3>
 <h4 align="center">🔐Cybersecurity | 💻Full Stack Development | 💻DevSecOps | 🚩CTF</h4>
 
