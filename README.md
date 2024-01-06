@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🏆 I’m Loves Hacking and Cybersecurity
 - ✍️ I’m Researching and Learning Web-Hacking
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [github](https://github.com/0xP21)
+- 📫 How to reach me: ... [Github](https://github.com/0xB16D4dy), [LinkedIn](https://www.linkedin.com/in/bigdaddy17/)
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I'm a robot
 <br /> 
