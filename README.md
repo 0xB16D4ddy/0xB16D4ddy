@@ -27,4 +27,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="50"></img>
 </div>
 
+<p align="center">
 ![cat](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
+</p>
